@@ -1,2 +1,4 @@
 some text
 another line of text
+
+New line of the text from someone from the internet
